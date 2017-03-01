@@ -277,7 +277,7 @@ left: auto;
 }
  
 .bw:hover {
-  -webkit-filter: grayscale(100%);
+  -webkit-filter: blur(2px);
 }
 
 
